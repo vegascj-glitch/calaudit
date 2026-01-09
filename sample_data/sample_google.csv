@@ -1,0 +1,37 @@
+Subject,Start Date,Start Time,End Date,End Time,All Day Event,Description,Location,Private
+Weekly Team Sync,01/06/2025,09:00 AM,01/06/2025,09:30 AM,FALSE,Weekly team alignment meeting,Google Meet,FALSE
+Weekly Team Sync,01/13/2025,09:00 AM,01/13/2025,09:30 AM,FALSE,Weekly team alignment meeting,Google Meet,FALSE
+Weekly Team Sync,01/20/2025,09:00 AM,01/20/2025,09:30 AM,FALSE,Weekly team alignment meeting,Google Meet,FALSE
+Weekly Team Sync,01/27/2025,09:00 AM,01/27/2025,09:30 AM,FALSE,Weekly team alignment meeting,Google Meet,FALSE
+Project Review,01/07/2025,02:00 PM,01/07/2025,03:30 PM,FALSE,Monthly project status review,Conference Room 1,FALSE
+Client Call - Beta Inc,01/08/2025,10:00 AM,01/08/2025,11:00 AM,FALSE,Quarterly business review,Zoom,FALSE
+Sprint Planning,01/06/2025,01:00 PM,01/06/2025,02:30 PM,FALSE,Two-week sprint planning,Google Meet,FALSE
+Sprint Planning,01/20/2025,01:00 PM,01/20/2025,02:30 PM,FALSE,Two-week sprint planning,Google Meet,FALSE
+1:1 Manager Check-in,01/07/2025,11:00 AM,01/07/2025,11:30 AM,FALSE,Weekly check-in,Private Office,TRUE
+1:1 Manager Check-in,01/14/2025,11:00 AM,01/14/2025,11:30 AM,FALSE,Weekly check-in,Private Office,TRUE
+1:1 Manager Check-in,01/21/2025,11:00 AM,01/21/2025,11:30 AM,FALSE,Weekly check-in,Private Office,TRUE
+1:1 Manager Check-in,01/28/2025,11:00 AM,01/28/2025,11:30 AM,FALSE,Weekly check-in,Private Office,TRUE
+Design Review,01/09/2025,03:00 PM,01/09/2025,04:00 PM,FALSE,UI/UX design review session,Design Studio,FALSE
+Tech Talk,01/10/2025,04:00 PM,01/10/2025,05:00 PM,FALSE,Internal knowledge sharing,Main Hall,FALSE
+Product Demo,01/15/2025,02:00 PM,01/15/2025,03:00 PM,FALSE,New feature demonstration,Google Meet,FALSE
+Team Retrospective,01/17/2025,03:00 PM,01/17/2025,04:30 PM,FALSE,Sprint retrospective,Conference Room 2,FALSE
+Team Retrospective,01/31/2025,03:00 PM,01/31/2025,04:30 PM,FALSE,Sprint retrospective,Conference Room 2,FALSE
+Stakeholder Update,01/22/2025,10:00 AM,01/22/2025,11:00 AM,FALSE,Monthly stakeholder briefing,Board Room,FALSE
+Workshop - AI Tools,01/23/2025,01:00 PM,01/23/2025,04:00 PM,FALSE,Hands-on AI tools workshop,Training Room,FALSE
+Customer Interview,01/24/2025,11:00 AM,01/24/2025,11:45 AM,FALSE,User research interview,Zoom,FALSE
+Customer Interview,01/24/2025,02:00 PM,01/24/2025,02:45 PM,FALSE,User research interview,Zoom,FALSE
+Marketing Sync,01/08/2025,03:00 PM,01/08/2025,03:30 PM,FALSE,Weekly marketing alignment,Google Meet,FALSE
+Marketing Sync,01/15/2025,03:00 PM,01/15/2025,03:30 PM,FALSE,Weekly marketing alignment,Google Meet,FALSE
+Marketing Sync,01/22/2025,03:00 PM,01/22/2025,03:30 PM,FALSE,Weekly marketing alignment,Google Meet,FALSE
+Marketing Sync,01/29/2025,03:00 PM,01/29/2025,03:30 PM,FALSE,Weekly marketing alignment,Google Meet,FALSE
+Holiday - MLK Day,01/20/2025,12:00 AM,01/20/2025,11:59 PM,TRUE,Office Closed,,FALSE
+Lunch and Learn,01/16/2025,12:00 PM,01/16/2025,01:00 PM,FALSE,Professional development session,Cafeteria,FALSE
+Focus Time,01/09/2025,09:00 AM,01/09/2025,12:00 PM,FALSE,Blocked for deep work,,TRUE
+Focus Time,01/16/2025,09:00 AM,01/16/2025,12:00 PM,FALSE,Blocked for deep work,,TRUE
+Focus Time,01/23/2025,09:00 AM,01/23/2025,12:00 PM,FALSE,Blocked for deep work,,TRUE
+Vendor Demo - NewTool,01/14/2025,02:00 PM,01/14/2025,03:00 PM,FALSE,Software evaluation demo,Google Meet,FALSE
+Team Outing Planning,01/21/2025,04:00 PM,01/21/2025,04:30 PM,FALSE,Planning committee meeting,Break Room,FALSE
+Quarterly Goals Review,01/29/2025,10:00 AM,01/29/2025,12:00 PM,FALSE,Q1 goals and OKR review,Conference Room 1,FALSE
+Cross-team Collaboration,01/28/2025,02:00 PM,01/28/2025,03:00 PM,FALSE,Alignment with Platform team,Google Meet,FALSE
+Interview - Frontend Dev,01/13/2025,01:00 PM,01/13/2025,02:00 PM,FALSE,Technical interview,Zoom,FALSE
+All Hands Meeting,01/30/2025,04:00 PM,01/30/2025,05:00 PM,FALSE,Company-wide update,Main Hall,FALSE

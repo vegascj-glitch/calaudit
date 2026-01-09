@@ -1,0 +1,50 @@
+Subject,Start Date,Start Time,End Date,End Time,All day event,Organizer,Required Attendees,Location
+Weekly Team Standup,01/06/2025,09:00 AM,01/06/2025,09:30 AM,FALSE,Sarah Johnson,Team Alpha,Conference Room A
+Weekly Team Standup,01/13/2025,09:00 AM,01/13/2025,09:30 AM,FALSE,Sarah Johnson,Team Alpha,Conference Room A
+Weekly Team Standup,01/20/2025,09:00 AM,01/20/2025,09:30 AM,FALSE,Sarah Johnson,Team Alpha,Conference Room A
+Weekly Team Standup,01/27/2025,09:00 AM,01/27/2025,09:30 AM,FALSE,Sarah Johnson,Team Alpha,Conference Room A
+1:1 with CEO,01/07/2025,10:00 AM,01/07/2025,11:00 AM,FALSE,Michael Chen,CEO; Executive Assistant,Executive Suite
+1:1 with CEO,01/14/2025,10:00 AM,01/14/2025,11:00 AM,FALSE,Michael Chen,CEO; Executive Assistant,Executive Suite
+1:1 with CEO,01/21/2025,10:00 AM,01/21/2025,11:00 AM,FALSE,Michael Chen,CEO; Executive Assistant,Executive Suite
+1:1 with CEO,01/28/2025,10:00 AM,01/28/2025,11:00 AM,FALSE,Michael Chen,CEO; Executive Assistant,Executive Suite
+Budget Review Q1,01/08/2025,02:00 PM,01/08/2025,04:00 PM,FALSE,Finance Team,CFO; Department Heads,Board Room
+Strategic Planning Session,01/09/2025,09:00 AM,01/09/2025,12:00 PM,FALSE,Michael Chen,Leadership Team,Offsite Location
+Client Meeting - Acme Corp,01/10/2025,11:00 AM,01/10/2025,12:30 PM,FALSE,Sales Team,Account Manager; CEO,Video Call
+Monthly All-Hands,01/15/2025,03:00 PM,01/15/2025,04:30 PM,FALSE,HR Department,All Employees,Main Auditorium
+Product Roadmap Review,01/16/2025,10:00 AM,01/16/2025,11:30 AM,FALSE,Product Team,Product; Engineering; Design,Conference Room B
+Vendor Negotiation - TechSupply,01/17/2025,02:00 PM,01/17/2025,03:30 PM,FALSE,Procurement,Legal; Finance,Conference Room C
+Weekly Leadership Sync,01/06/2025,04:00 PM,01/06/2025,05:00 PM,FALSE,Michael Chen,Leadership Team,Executive Conference Room
+Weekly Leadership Sync,01/13/2025,04:00 PM,01/13/2025,05:00 PM,FALSE,Michael Chen,Leadership Team,Executive Conference Room
+Weekly Leadership Sync,01/20/2025,04:00 PM,01/20/2025,05:00 PM,FALSE,Michael Chen,Leadership Team,Executive Conference Room
+Weekly Leadership Sync,01/27/2025,04:00 PM,01/27/2025,05:00 PM,FALSE,Michael Chen,Leadership Team,Executive Conference Room
+Board Preparation,01/22/2025,01:00 PM,01/22/2025,03:00 PM,FALSE,Michael Chen,CEO; CFO; General Counsel,Board Room
+Board Meeting,01/23/2025,09:00 AM,01/23/2025,01:00 PM,FALSE,Board Secretary,Board of Directors,Board Room
+Investor Call - Series C Update,01/24/2025,11:00 AM,01/24/2025,12:00 PM,FALSE,Michael Chen,CEO; CFO; Investors,Video Call
+Marketing Strategy Review,01/08/2025,10:00 AM,01/08/2025,11:00 AM,FALSE,Marketing Director,Marketing Team; CEO,Conference Room D
+Sales Pipeline Review,01/09/2025,02:00 PM,01/09/2025,03:00 PM,FALSE,VP Sales,Sales Team; CEO,Conference Room A
+Engineering Sprint Planning,01/06/2025,02:00 PM,01/06/2025,03:30 PM,FALSE,Engineering Manager,Engineering Team,Conference Room B
+Engineering Sprint Planning,01/20/2025,02:00 PM,01/20/2025,03:30 PM,FALSE,Engineering Manager,Engineering Team,Conference Room B
+Company Holiday,01/01/2025,12:00 AM,01/01/2025,11:59 PM,TRUE,HR Department,All Employees,
+Interview - Senior Developer,01/14/2025,02:00 PM,01/14/2025,03:00 PM,FALSE,HR Recruiter,Hiring Manager; CTO,Video Call
+Interview - Product Manager,01/16/2025,03:00 PM,01/16/2025,04:00 PM,FALSE,HR Recruiter,Hiring Manager; VP Product,Video Call
+Legal Review - Contract,01/21/2025,11:00 AM,01/21/2025,12:00 PM,FALSE,General Counsel,Legal Team; CEO,Legal Office
+IT Security Briefing,01/22/2025,10:00 AM,01/22/2025,10:30 AM,FALSE,CISO,IT Team; Leadership,Conference Room A
+Customer Success Check-in,01/10/2025,03:00 PM,01/10/2025,03:30 PM,FALSE,CS Manager,Customer Success Team,Video Call
+Team Building Event Planning,01/17/2025,04:00 PM,01/17/2025,05:00 PM,FALSE,HR Manager,HR Team; Culture Committee,Break Room
+Quarterly Business Review,01/29/2025,09:00 AM,01/29/2025,12:00 PM,FALSE,Michael Chen,All Department Heads,Board Room
+Press Interview,01/28/2025,02:00 PM,01/28/2025,02:30 PM,FALSE,PR Manager,CEO; PR Team,Executive Suite
+Partner Meeting - GlobalTech,01/30/2025,10:00 AM,01/30/2025,11:30 AM,FALSE,Business Development,BD Team; CEO,Video Call
+Compliance Training,01/15/2025,09:00 AM,01/15/2025,10:00 AM,FALSE,Legal Department,All Employees,Main Auditorium
+Performance Review - Direct Report,01/13/2025,02:00 PM,01/13/2025,03:00 PM,FALSE,Sarah Johnson,Direct Report,Private Office
+Performance Review - Direct Report,01/14/2025,11:00 AM,01/14/2025,12:00 PM,FALSE,Sarah Johnson,Direct Report,Private Office
+Office Hours,01/07/2025,03:00 PM,01/07/2025,04:00 PM,FALSE,Michael Chen,Open,Executive Suite
+Office Hours,01/21/2025,03:00 PM,01/21/2025,04:00 PM,FALSE,Michael Chen,Open,Executive Suite
+Emergency Response Drill,01/29/2025,02:00 PM,01/29/2025,03:00 PM,FALSE,Facilities,All Employees,Lobby
+Lunch with Mentor,01/08/2025,12:00 PM,01/08/2025,01:00 PM,FALSE,Michael Chen,External Mentor,Restaurant
+Coffee Chat - New Employee,01/15/2025,10:30 AM,01/15/2025,11:00 AM,FALSE,Michael Chen,New Hire,Cafe
+Department Budget Planning,01/27/2025,10:00 AM,01/27/2025,11:30 AM,FALSE,Finance Team,Department Heads,Conference Room C
+Travel Day,01/31/2025,12:00 AM,01/31/2025,11:59 PM,TRUE,Executive Assistant,CEO,
+Innovation Workshop,01/24/2025,01:00 PM,01/24/2025,04:00 PM,FALSE,Innovation Team,Cross-functional Team,Innovation Lab
+Weekly Team Standup,02/03/2025,09:00 AM,02/03/2025,09:30 AM,FALSE,Sarah Johnson,Team Alpha,Conference Room A
+1:1 with CEO,02/04/2025,10:00 AM,02/04/2025,11:00 AM,FALSE,Michael Chen,CEO; Executive Assistant,Executive Suite
+Weekly Leadership Sync,02/03/2025,04:00 PM,02/03/2025,05:00 PM,FALSE,Michael Chen,Leadership Team,Executive Conference Room
